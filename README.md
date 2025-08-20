@@ -12,6 +12,11 @@ you earn points.
 
 ---
 
+How to play ?
+Download all the files and put them in the same folder, then run The delights of Christian.html
+
+---
+
 Version : 1.0
 
 ---
@@ -36,5 +41,6 @@ Date of implementation in French: December 2022
 Date of English translation of the game : 20th August 2025
 
 ---
+
 
 
