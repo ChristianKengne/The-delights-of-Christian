@@ -12,12 +12,16 @@ you earn points.
 
 ---
 
-How to play ?
-Download the zip document of the project, then extract the folder "The-delights-of-Christian-main". Enter the extracted folder, and run "The delights of Christian.html"
----
-
 Version : 1.0
 
+---
+
+This game will run correctly only on Laptop/Desktop
+
+---
+
+How to play ?
+Download the zip document of the project, then extract the folder "The-delights-of-Christian-main". Enter the extracted folder, and run "The delights of Christian.html"
 ---
 
 > Informations about the programmer :
@@ -40,6 +44,7 @@ Date of implementation in French: December 2022
 Date of English translation of the game : 20th August 2025
 
 ---
+
 
 
 
