@@ -1,4 +1,6 @@
-# The-delights-of-Christian
+# _*The delights of Christian*_ 
+
+
 License : Open source code
 
 ---
@@ -31,3 +33,4 @@ Date of implementation in French: December 2022
 Date of English translation of the game : 20th August 2025
 
 ---
+
